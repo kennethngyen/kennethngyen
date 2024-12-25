@@ -1,21 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 
-I'm Kenneth Nguyen, a 3rd year CS student at UC San Diego (June 2026). I'm interested in scalable data systems, infrastructure, Web3/Blockchain, and backend systems.
+I'm Kenneth Nguyen, a 3rd year CS student at UC San Diego (June 2026).
 
 ### 💻 **Experience**
-  - **Coinbase (Incoming)**: Summer 2025.
-  - **NASA**: Built distributed tools for aerospace data visualization and analytics.
-  - **CoStar Group**: Developed APIs and enhanced application performance for Homes.com.
-  - **Sixturns**: Built a cross-platform mobile app, boosting traffic and user engagement by 30%.
-  - **MIT BeaverWorks Teaching Assistant**: Guided students through data structures and algorithms.
-
-### 🛠️ **Skills**
-**Languages**: JavaScript, TypeScript, Python, Golang, C++, SQL, PHP  
-**Frameworks**: React, Next.js, Flask, Docker, AWS, TailwindCSS  
-
-### 📚 **Projects**
-- **[Apptrak.xyz](https://apptrak.xyz)**: Automated job tracking for postings with Golang and Next.js
+This summer, I'll be working at Coinbase under the Platform team, enabling payments. Previously, I worked on Homes.com development at CoStar Group, [Unsteady Pressure Sensitive Paint]([url](https://www.nasa.gov/feature/unsteady-pressure-sensitive-paint-application-on-nasa-s-space-launch-system-at-nasa-ames)) & an internal data platform at NASA, taught a ASIC design class at MIT, and did full-stack work at two startups. I'm interested in scalable data systems, infrastructure, backend systems, and startups.
 
 ### 🔗 **Find Me Online**
-- [GitHub](https://github.com/kennethngyen)  
+- [GitHub](https://github.com/kennethngyen)
 - [LinkedIn](https://linkedin.com/in/kennethngyen)
