@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Kenneth Nguyen, a 3rd year CS student at UC San Diego (June 2026).
 
